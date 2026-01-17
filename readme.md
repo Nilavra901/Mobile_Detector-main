@@ -21,6 +21,9 @@ This tool is useful for **Study Sessions**, **No-Phone Zones**, or **Focus Time*
 2. Open your terminal/command prompt in the project folder.
 3. Install the required Python libraries:
 
+   #BY NILAVRA GHOSH
+   #https://github.com/Nilavra901
+
 ```bash
 pip install opencv-python ultralytics pygame
 
